@@ -1,0 +1,5 @@
+sample,first_date,last_date,observations,tickers
+Tuning train,2023-01-04,2023-06-01,9785,95
+Validation,2023-07-03,2023-11-30,10070,95
+Final purged train,2023-01-04,2023-11-30,21755,95
+Out-of-sample test,2024-01-02,2026-10-15,66500,95

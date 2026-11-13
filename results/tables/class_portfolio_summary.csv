@@ -1,0 +1,5 @@
+portfolio,teams,mean_final_value,median_final_value,standard_deviation,minimum,maximum,mean_return,teams_above_initial,share_above_initial
+"Portfolio 1
+Interest-based",45,101178.60755555556,100927.98,5386.404514584151,89464.09,114318,0.011786075555555534,27,0.6
+"Portfolio 2
+Indicator-based",45,103087.49844444444,102848.33,7968.6017112668105,87252.6,120786.9,0.030874984444444437,29,0.6444444444444445

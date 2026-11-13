@@ -1,0 +1,16 @@
+metric,value
+Number of paired teams,45
+Mean Portfolio 1 final value,101178.60755555556
+Mean Portfolio 2 final value,103087.49844444444
+Mean paired difference,1908.8908888888886
+Median paired difference,2230.6100000000006
+SD of paired differences,7617.694845838097
+Portfolio 2 wins,30
+Portfolio 1 wins,15
+Correlation,0.40168913259033856
+Two-sided paired t-test p-value,0.09985230056350661
+Paired t-test CI lower,-379.7180053534497
+Paired t-test CI upper,4197.499783131228
+Bootstrap CI lower,-298.1881388888907
+Bootstrap CI upper,4119.274349999995
+Randomization p-value,0.10108989101089891

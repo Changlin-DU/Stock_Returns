@@ -1,0 +1,2 @@
+candidate,trees,tree_depth,learn_rate,min_n,loss_reduction,sample_size,mtry_proportion,mean_rank_ic,median_rank_ic,positive_rank_ic_share,validation_rmse,validation_mae,status
+6,400,4,0.03,50,0.05,0.75,0.7,0.1047233197405396,0.10917553191489363,0.6698113207547169,0.09474129923771127,0.07267149859043438,success

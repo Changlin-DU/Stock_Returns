@@ -1,0 +1,2 @@
+model,trees,tree_depth,learn_rate,loss_reduction,min_n,training_observations,test_observations,fit_minutes
+Original XGBoost,300,5,0.05,0,10,35625,66500,0.012539883454640707

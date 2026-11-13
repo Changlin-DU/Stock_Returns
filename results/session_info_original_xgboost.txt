@@ -1,0 +1,62 @@
+R version 4.6.1 (2026-06-24)
+Platform: aarch64-apple-darwin23
+Running under: macOS Sequoia 15.7.7
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/New_York
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] xgboost_3.2.1.1            slider_0.3.3              
+ [3] yardstick_1.4.0            workflowsets_1.1.1        
+ [5] workflows_1.3.0            tune_2.1.0                
+ [7] tailor_0.1.0               rsample_1.3.2             
+ [9] recipes_1.4.0              parsnip_1.6.1             
+[11] modeldata_1.6.0            infer_1.1.0               
+[13] dials_1.4.4                broom_1.0.13              
+[15] tidymodels_1.5.0           PerformanceAnalytics_2.1.0
+[17] quantmod_0.4.29            TTR_0.24.4                
+[19] xts_0.14.2                 zoo_1.9-0                 
+[21] tidyquant_1.0.12           scales_1.4.0              
+[23] here_1.0.2                 readxl_1.6.0              
+[25] lubridate_1.9.5            forcats_1.0.1             
+[27] stringr_1.6.0              dplyr_1.2.1               
+[29] purrr_1.2.2                readr_2.2.0               
+[31] tidyr_1.3.2                tibble_3.3.1              
+[33] ggplot2_4.0.3              tidyverse_2.0.0           
+
+loaded via a namespace (and not attached):
+ [1] conflicted_1.2.0    rlang_1.3.0         magrittr_2.0.5     
+ [4] furrr_0.4.0         compiler_4.6.1      mgcv_1.9-4         
+ [7] systemfonts_1.3.2   vctrs_0.7.3         quadprog_1.5-8     
+[10] pkgconfig_2.0.3     crayon_1.5.3        fastmap_1.2.0      
+[13] backports_1.5.1     labeling_0.4.3      utf8_1.2.6         
+[16] prodlim_2026.03.11  tzdb_0.5.0          ragg_1.5.2         
+[19] bit_4.6.0           cachem_1.1.0        jsonlite_2.0.0     
+[22] parallel_4.6.1      R6_2.6.1            stringi_1.8.9      
+[25] RColorBrewer_1.1-3  parallelly_1.48.0   rpart_4.1.27       
+[28] cellranger_1.1.0    Rcpp_1.1.2          future.apply_1.20.2
+[31] warp_0.2.3          Matrix_1.7-5        splines_4.6.1      
+[34] nnet_7.3-20         timechange_0.4.0    tidyselect_1.2.1   
+[37] rstudioapi_0.19.0   timeDate_4052.112   codetools_0.2-20   
+[40] curl_8.0.0          listenv_1.0.0       lattice_0.22-9     
+[43] withr_3.0.3         S7_0.2.2            timetk_2.9.1       
+[46] future_1.75.0       survival_3.8-6      pillar_1.11.1      
+[49] generics_0.1.4      vroom_1.7.1         rprojroot_2.1.1    
+[52] hms_1.1.4           globals_0.19.1      class_7.3-23       
+[55] glue_1.8.1          tools_4.6.1         data.table_1.18.6.1
+[58] gower_1.0.2         grid_4.6.1          RobStatTM_1.0.11   
+[61] ipred_0.9-16        nlme_3.1-169        cli_3.6.6          
+[64] DiceDesign_1.10     textshaping_1.0.5   lava_1.9.3         
+[67] gtable_0.3.6        digest_0.6.39       farver_2.1.2       
+[70] memoise_2.0.1       lifecycle_1.0.5     hardhat_1.4.3      
+[73] sparsevctrs_0.3.6   bit64_4.8.4         MASS_7.3-65        

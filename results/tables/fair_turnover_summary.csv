@@ -1,0 +1,3 @@
+model,months,mean_turnover,median_turnover,maximum_turnover,total_estimated_cost
+Improved XGBoost,34,0.5764705882352942,0.6,1,0.019599999999999996
+Original XGBoost,34,0.6323529411764706,0.6,1,0.0215
